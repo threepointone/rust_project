@@ -1,0 +1,4 @@
+compatibility_date = "2021-12-14"
+
+[vars]
+WORKERS_RS_VERSION = "0.0.7"
